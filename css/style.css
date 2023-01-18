@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background-color:  rgba(206, 23, 23, 0.753);
+}
+
+/*img{
+    opacity: 0.8;
+    width: 2100
+    height: 100%;
+} */
+
+h1 {
+    border: 2px solid;
+    margin: 40px 450px ;
+    border-radius: 50px;
+    font-size: 40px;
+    background: linear-gradient(red, yellow,black);
+}
+
+p {
+    font-size: 30px;
+}
+
+img {
+    height: 250px;
+    width: 150px;
+}
+
+div img{
+    height: 60px;
+    width: 80px;
+}
+
+section p div {
+    margin-top: 50px;
+}
+
+#Effectif {
+    font-size: 20px;
+}
+
+body form {
+    padding-top: 20px;
+}
+
+form div {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
